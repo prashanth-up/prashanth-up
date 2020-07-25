@@ -3,7 +3,13 @@
 ![](https://komarev.com/ghpvc/?username=prashanth-up&style=flat-square&label=Friendly+Stalker+Count)
 
 
-#### Nothing here yet, keep scrolling 😶
+
+#### I make cool things out of code 🙂
+
+![Prashanth's github stats](https://github-readme-stats.vercel.app/api?username=prashanth-up&count_private=true&show_icons=true&theme=dark&hide=contribs)
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prashanth-up) -->
+
 
 <!--
 **prashanth-up/prashanth-up** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
