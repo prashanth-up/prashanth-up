@@ -1,5 +1,8 @@
 ### Hi there 👋 
 
+![](https://komarev.com/ghpvc/?username=prashanth-up&style=flat-square&label=Friendly+Stalker+Count)
+
+
 #### Nothing here yet, keep scrolling 😶
 
 <!--
