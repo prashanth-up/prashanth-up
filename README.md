@@ -2,11 +2,11 @@
 
 <!-- ![](https://komarev.com/ghpvc/?username=prashanth-up&style=flat-square&label=Friendly+Stalker+Count) -->
 
-![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/prashanth-up&title=Friendly+Stalker+Count)
+<!-- ![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/prashanth-up&title=Friendly+Stalker+Count) -->
 
 
 
-#### I make cool things out of code 🙂
+#### I try to make cool things out of code 🙂
 
 ![Prashanth's github stats](https://github-readme-stats.vercel.app/api?username=prashanth-up&count_private=true&show_icons=true&theme=dark&hide=contribs)
 
