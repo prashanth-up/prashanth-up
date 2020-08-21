@@ -2,7 +2,7 @@
 
 <!-- ![](https://komarev.com/ghpvc/?username=prashanth-up&style=flat-square&label=Friendly+Stalker+Count) -->
 
-<!-- ![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/prashanth-up&title=Friendly+Stalker+Count) -->
+ ![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/prashanth-up&title=Friendly+Stalker+Count) 
 
 
 
