@@ -8,7 +8,7 @@
 
 #### I try to make cool things out of code 🙂
 
-![Prashanth's github stats](https://github-readme-stats.vercel.app/api?username=prashanth-up&count_private=true&show_icons=true&theme=dark&hide=contribs)
+<!-- ![Prashanth's github stats](https://github-readme-stats.vercel.app/api?username=prashanth-up&count_private=true&theme=dark&hide=contribs)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prashanth-up) -->
 
